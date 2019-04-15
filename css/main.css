@@ -93,6 +93,10 @@ header {
 	padding: 12px 15px;
 }
 
+.nav-link:active, .nav-link:focus {
+	color: #000;
+}
+
 .nav-tabs .nav-link.active {
     color: #ff0d29;
     background-color: #f1f0ee;
