@@ -94,7 +94,7 @@ header {
 }
 
 .nav-link:active, .nav-link:focus, .nav-link:hover {
-	color: #fff;
+	color: #000;
 }
 
 .nav-tabs .nav-link.active {
