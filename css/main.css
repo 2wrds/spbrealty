@@ -93,7 +93,7 @@ header {
 	padding: 12px 15px;
 }
 
-.nav-link:active, .nav-link:focus {
+.nav-link:active, .nav-link:focus, .nav-link:hover {
 	color: #000;
 }
 
