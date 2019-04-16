@@ -21,7 +21,7 @@ header {
     padding: 0 0.8rem;
     position: relative;
     text-align: center;
-    border-bottom: 1px solid #e2e3e4;
+    border-bottom: 1px solid #e8e9e9;
     display: flex;
     line-height: 1;
     justify-content: space-between;
@@ -48,13 +48,17 @@ header {
     margin-top: 1px;
 }
 
+.logo-text {
+	margin-left: -120px;
+}
+
 .call-me {
     margin-left: 0.4rem;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 29px;
-    height: 29px;
+    width: 34px;
+    height: 34px;
     border-radius: 5px;
     border: 1px solid #e1e1e1;
     margin-top: -1px;
@@ -310,6 +314,8 @@ header {
 	color: #ff0d29;
 	font-size: 15px;
 	margin-bottom: 15px;
+	max-width: 70%;
+	line-height: 20px;
 }
 
 .news__description {
@@ -359,7 +365,7 @@ header {
 .theme__img {
 	max-width: 16px;
 	max-height: 8px;
-	margin: 8px 4px 0 0;
+	margin: 9px 4px 0 0;
 }
 
 .theme__desc {
@@ -397,6 +403,7 @@ header {
 	color: #ff0d29;
 	font-size: 15px;
 	text-decoration: underline;
+	line-height: 20px;
 }
 
 .developments__link:active, .developments__link:focus {
