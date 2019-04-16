@@ -114,6 +114,10 @@ header {
 	padding-bottom: 20px;
 }
 
+.slider {
+	margin-bottom: 39px;
+}
+
 .whywe__slide {
 	width: 320px;
 	height: 540px;
@@ -428,6 +432,7 @@ header {
 
 #help h2 {
 	padding-top: 40px;
+	margin-top: 20px;
 }
 
 .help__description, .help__return-call {
