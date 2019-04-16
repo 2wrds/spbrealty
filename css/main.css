@@ -468,9 +468,11 @@ header {
 .help__call-time {
 	color: #b3b3b3;
 	font-size: 14px;
-	display: block;
 	text-align: center;
-	text-decoration: underline;
+	border-bottom: 1px dotted #c2c2c2;
+	max-width: 195px;
+	margin: 0 auto;
+	display: block;
 }
 
 /*Footer*/
